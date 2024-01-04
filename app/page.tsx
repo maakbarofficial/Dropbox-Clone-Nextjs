@@ -40,10 +40,9 @@ export default function Home() {
       <p className="text-center font-bold text-xl pt-5">Diclamier</p>
       <p className="text-center font-light text-xl p-2">
         This clone is made for informational and educational purposes only. We
-        do not own or affiliate with Dropbox or/and any of its subsidiaries in
-        any form. Copyright Disclaimer under section 107 of the Copyright Act
-        1976, allowance is made for &quot;fair use&quot; of this video for
-        educational purposes.
+        do not own or affilate with Dropbox or/and any of its susidiaries in any
+        form. Copyright Disclamier under section 107 of the Copyright act 1976,
+        allowence is made for "fair use" of this video for educational purposes.
       </p>
     </main>
   );
